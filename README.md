@@ -1,4 +1,3 @@
-# Regression-Analysis-on-Diamonds-dataset
-A REGRESSION ANALYSIS MODEL TO PREDICT THE BID PRICE OF A SET OF DIAMONDS
 
+In this project, I built a regression model to predict the amount used to bid for a set of diamonds.
 
